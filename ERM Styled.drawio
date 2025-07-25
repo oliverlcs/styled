@@ -1,0 +1,117 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
+  <diagram name="Page-1" id="dlx6Uj45DNEaNbl9RBUK">
+    <mxGraphModel dx="2562" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WeY1boZegDoX41rT5WVR-1" value="User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-2" value="ClothingItems" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-3" value="Outfits" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-4" value="Collections" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-5" value="Followers/&lt;div&gt;Following&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-11" target="WeY1boZegDoX41rT5WVR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-11" value="ClothingItem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-12" value="Tags" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-13" value="Labels" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-14" value="Image" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-15" value="Link" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;fillStyle=dots;gradientColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-16" target="WeY1boZegDoX41rT5WVR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-16" value="Belongs&lt;br&gt;To" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-19" target="WeY1boZegDoX41rT5WVR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-19" value="Outfit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-21" value="ClothingItems" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="720" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-22" target="WeY1boZegDoX41rT5WVR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-22" target="WeY1boZegDoX41rT5WVR-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="480" />
+              <mxPoint x="320" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-22" value="Belongs&lt;br&gt;To" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-25" target="WeY1boZegDoX41rT5WVR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-25" value="Collections" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-28" value="Tags" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-29" value="Season" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-30" value="Style" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1020" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-32" value="Outfits" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-33" target="WeY1boZegDoX41rT5WVR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-33" value="Belongs&lt;br&gt;To" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-36" target="WeY1boZegDoX41rT5WVR-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-36" value="Comment / Like / Follow" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-37" target="WeY1boZegDoX41rT5WVR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="WeY1boZegDoX41rT5WVR-37" target="WeY1boZegDoX41rT5WVR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="240" />
+              <mxPoint x="40" y="760" />
+              <mxPoint x="-80" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeY1boZegDoX41rT5WVR-37" value="Linked&lt;br&gt;To" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
